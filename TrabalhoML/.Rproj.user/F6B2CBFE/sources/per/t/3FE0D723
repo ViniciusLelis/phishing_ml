@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531358782722.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3260652386",
+    "id" : "3FE0D723",
+    "lastKnownWriteTime" : 1531379540,
+    "last_content_update" : 1531379541000,
+    "path" : "~/TrabalhoML/TrabalhoML/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+        "cursorPosition" : "21,76",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "14"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

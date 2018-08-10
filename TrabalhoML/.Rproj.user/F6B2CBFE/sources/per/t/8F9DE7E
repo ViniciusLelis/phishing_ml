@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531361198412.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3669582671",
+    "id" : "8F9DE7E",
+    "lastKnownWriteTime" : 1531440964,
+    "last_content_update" : 1531440964270,
+    "path" : "~/TrabalhoML/TrabalhoML/R/phishing_detection.R",
+    "project_path" : "R/phishing_detection.R",
+    "properties" : {
+        "cursorPosition" : "76,47",
+        "scrollLine" : "64",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
